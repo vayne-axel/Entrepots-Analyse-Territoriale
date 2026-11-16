@@ -1,0 +1,12 @@
+# Fichier .gitignore : la liste de ce que Git ne doit jamais publier sur GitHub.
+
+# Secrets : mots de passe et clés d'API
+.env
+
+# Fichiers système créés automatiquement par Mac et Windows
+.DS_Store
+Thumbs.db
+
+# Fichiers techniques créés automatiquement par Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
