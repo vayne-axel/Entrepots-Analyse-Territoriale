@@ -3,6 +3,7 @@
   Les blocs comme celui-ci sont des consignes : GitHub ne les affiche pas.
   Remplace chaque \\\[crochet] par ton texte, puis supprime les crochets.
   Repères Markdown : une ligne qui commence par # est un titre ; une ligne qui commence par - est une puce.
+-->
 
 # Entrepôts – Analyse territoriale
 
