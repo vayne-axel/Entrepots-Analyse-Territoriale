@@ -9,7 +9,7 @@
 
 Comparer la répartition des entrepôts logistiques à celle de la population en France pour repérer les disparités régionales.
 
-## 1\. Le problème
+## 1. Le problème
 
 <!-- Reprends ta fiche projet : le contexte en 2 ou 3 phrases, la question centrale, l'utilisateur. -->
 
