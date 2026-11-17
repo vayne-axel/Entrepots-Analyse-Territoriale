@@ -24,8 +24,8 @@ Comparer la répartition des entrepôts logistiques à celle de la population en
 
 |Source|Type|Ce qu'elle apporte|
 |-|-|-|
-|SDES – Entrepôts et plateformes logistiques|Données publiques (format à confirmer)|Informations sur la répartition des entrepôts et plateformes logistiques en France|
-|INSEE – Population par région|Données publiques (format à confirmer)|Données sur la population des régions françaises|
+|SDES – Entrepôts et plateformes logistiques|Excel, CSV|Informations sur la répartition des entrepôts et plateformes logistiques en France|
+|INSEE – Population par région|Excel, CSV|Données sur la population des régions françaises|
 
 ## 3\. L'organisation du dépôt
 
